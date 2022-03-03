@@ -23,7 +23,7 @@ Taking the upper left corner of the screen as the origin, the position of the pi
 -switchKey: Switch the key of the custom key mapping. The default is the normal mapping. You need to use this key to switch between the normal mapping and the custom mapping.
 
 -mouseMoveMap: mouse movement mapping, the movement of the mouse will be mapped to startPos as the starting point, and the direction of the mouse movement as the direction of the finger drag operation (after the mouse movement map is turned on, the mouse will be hidden, limiting the range of mouse movement).
-Generally used to adjust the character field of vision in FPS mobile games.
+Generally used to adjust the character field of vision in FPS mobile games.\n
     -startPos finger drag starting point
     -speedRatio mouse sensitivity of the finger dragging. The value must be at least 0.00225. The greater the value, the lower the sensitivity. The Y-axis translates with a ratio of 2.25. If this does not fit your phone screen, please use the following two settings to set individual sensitivity values.
     -speedRatioX sensitivity of the mouse X-axis. This value must be at least 0.001.
